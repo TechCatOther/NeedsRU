@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" nowhitespace="false" translatedname="English">
+  <!--Items-->
+  <entityname.watercanteen>Water Canteen</entityname.watercanteen>
+  <entitydescription.watercanteen>A resistant water canteen to hold your precious purified water.</entitydescription.watercanteen>
+  <entityname.ledouxenergydrink>Energy Drink</entityname.ledouxenergydrink>
+  <entitydescription.ledouxenergydrink>A tasty drink to help you fight sleepiness.</entitydescription.ledouxenergydrink>
+  <entityname.cookingstation_needs>Cooking Station</entityname.cookingstation_needs>
+  <entitydescription.cookingstation_needs>An all around kitchen appliance allowing you to cook a grand variety of meals. Light enough to be moved elsewhere.</entitydescription.cookingstation_needs>
+  <!--Meat-->
+  <entityname.rottedmeat>Rotted Meat</entityname.rottedmeat>
+  <entitydescription.rottedmeat>Don't even think about eating that !</entitydescription.rottedmeat>
+  <entityname.crawlermeat>Crawler Meat</entityname.crawlermeat>
+  <entitydescription.crawlermeat>This meat is kinda soft, yet it's still gross.</entitydescription.crawlermeat>
+  <entityname.hammerheadmeat>Hammerhead Meat</entityname.hammerheadmeat>
+  <entitydescription.hammerheadmeat>A strong and hard piece of meat, better to tenderized it.</entitydescription.hammerheadmeat>
+  <entityname.humanmeat>Human Meat</entityname.humanmeat>
+  <entitydescription.humanmeat>Eating the deads, is it reasonnable ?</entitydescription.humanmeat>
+  <entityname.huskedmeat>Husked Meat</entityname.huskedmeat>
+  <entitydescription.huskedmeat>It's still moving...</entitydescription.huskedmeat>
+  <entityname.molochmeat>Moloch Meat</entityname.molochmeat>
+  <entitydescription.molochmeat>Crispy on the outside, soft on the inside.</entitydescription.molochmeat>
+  <entityname.spinelingmeat>Spineling Meat</entityname.spinelingmeat>
+  <entitydescription.spinelingmeat>Let's hope no spike will grow in your stomach...</entitydescription.spinelingmeat>
+  <entityname.mudraptormeat>Mudraptor Meat</entityname.mudraptormeat>
+  <entitydescription.mudraptormeat>People says that it taste like some sort of chicken, too bad you don't know what a chicken is...</entitydescription.mudraptormeat>
+  <entityname.threshermeat>Thresher Meat</entityname.threshermeat>
+  <entitydescription.threshermeat>There is nerves everywhere !</entitydescription.threshermeat>
+  <!-- Canned Foods -->
+  <entityname.tincan>Tin Can</entityname.tincan>
+  <entitydescription.tincan>Used to preserve food and meal for years if not more.</entitydescription.tincan>
+  <entityname.cannedfood>Canned Food</entityname.cannedfood>
+  <entitydescription.cannedfood>Not really a great meal, but it does fill your stomach. On the plus side it doesn't seems to expire, but don't ask how it's made...</entitydescription.cannedfood>
+  <entityname.cannedcrawlermeat>Canned Crawler Meat</entityname.cannedcrawlermeat>
+  <entitydescription.cannedcrawlermeat>At least the salt will cover the taste.</entitydescription.cannedcrawlermeat>
+  <entityname.cannedhammerheadmeat>Canned Hammerhead Meat</entityname.cannedhammerheadmeat>
+  <entitydescription.cannedhammerheadmeat>The hard part is to chew it but to remove it from the can.</entitydescription.cannedhammerheadmeat>
+  <entityname.cannedhumanmeat>Canned Human Meat</entityname.cannedhumanmeat>
+  <entitydescription.cannedhumanmeat>"Even in death i am still served"</entitydescription.cannedhumanmeat>
+  <entityname.cannedhuskedmeat>Canned Husked Meat</entityname.cannedhuskedmeat>
+  <entitydescription.cannedhuskedmeat>Suprisingly nourrishing and tasty, but let a strange rear taste in your mouth...</entitydescription.cannedhuskedmeat>
+  <entityname.cannedmolochmeat>Canned Moloch Meat</entityname.cannedmolochmeat>
+  <entitydescription.cannedmolochmeat>Salty grey matter for everyone !</entitydescription.cannedmolochmeat>
+  <entityname.cannedmudraptormeat>Canned Mudraptor Meat</entityname.cannedmudraptormeat>
+  <entitydescription.cannedmudraptormeat>Maybe it got his chicken taste because those things eat a lot of people ?</entitydescription.cannedmudraptormeat>
+  <entityname.cannedspinelingmeat>Canned Spineling Meat</entityname.cannedspinelingmeat>
+  <entitydescription.cannedspinelingmeat>Be careful when eating : you may hit a bone or twenty.</entitydescription.cannedspinelingmeat>
+  <entityname.cannedthreshermeat>Canned Thresher Meat</entityname.cannedthreshermeat>
+  <entitydescription.cannedthreshermeat>More like a soup now since it hit the blender so many time.</entitydescription.cannedthreshermeat>
+  <!--Afflictions-->
+  <afflictionname.hungeraffliction>Hunger</afflictionname.hungeraffliction>
+  <afflictiondescription.hungeraffliction>Keep your hunger low : if it reach 50% you will start to get negative effects and your body may not endure it...</afflictiondescription.hungeraffliction>
+  <afflictioncauseofdeath.hungeraffliction>Died of starvation</afflictioncauseofdeath.hungeraffliction>
+  <afflictioncauseofdeathself.hungeraffliction>The hunger was to much to bear...</afflictioncauseofdeathself.hungeraffliction>
+  <afflictionname.thirstaffliction>Thirst</afflictionname.thirstaffliction>
+  <afflictiondescription.thirstaffliction>Keep your thirst low : if it reach 50% you will start to get negative effects and your body may not endure it...</afflictiondescription.thirstaffliction>
+  <afflictioncauseofdeath.thirstaffliction>Died of dehydratation</afflictioncauseofdeath.thirstaffliction>
+  <afflictioncauseofdeathself.thirstaffliction>So much water around, yet so thirsty...</afflictioncauseofdeathself.thirstaffliction>
+  <afflictionname.sleepaffliction>Sleepiness</afflictionname.sleepaffliction>
+  <afflictiondescription.sleepaffliction>Keep your sleepiness low : if it reach 50% you will start to get negative effects and your body may not endure it...</afflictiondescription.sleepaffliction>
+  <afflictioncauseofdeath.sleepaffliction>Died of sleep deprivation</afflictioncauseofdeath.sleepaffliction>
+  <afflictioncauseofdeathself.sleepaffliction>You can now rest, forever...</afflictioncauseofdeathself.sleepaffliction>
+  <afflictionname.social>Social</afflictionname.social>
+  <afflictiondescription.social>Keep this need in check : if it reach 50% you will start to get negative effects on your skills, so enjoy human company a little !</afflictiondescription.social>
+  <afflictioncauseofdeath.social>Crippling depression</afflictioncauseofdeath.social>
+  <afflictioncauseofdeathself.social>How ????</afflictioncauseofdeathself.social>
+  <!--afflictionname.></afflictionname.>
+<afflictiondescription.></afflictiondescription.>
+<afflictioncauseofdeath.></afflictioncauseofdeath.>
+<afflictioncauseofdeathself.></afflictioncauseofdeathself.-->
+  <!--entityname.></entityname.>
+<entitydescription.></entitydescription.-->
+</infotexts>
