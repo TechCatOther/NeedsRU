@@ -15,36 +15,36 @@
   <entityname.hammerheadmeat>Мясо молотоглава</entityname.hammerheadmeat>
   <entitydescription.hammerheadmeat>Крепкий и твердый кусок мяса, лучше размягчить его.</entitydescription.hammerheadmeat>
   <entityname.humanmeat>Мясо человека</entityname.humanmeat>
-  <entitydescription.humanmeat>Поедание мертвых, это разумно?</entitydescription.humanmeat>
+  <entitydescription.humanmeat>Поедание мертвых, разумно ли это?</entitydescription.humanmeat>
   <entityname.huskedmeat>Мясо хасков</entityname.huskedmeat>
-  <entitydescription.huskedmeat>Всё еще шевелиться...</entitydescription.huskedmeat>
+  <entitydescription.huskedmeat>Всё еще шевелится...</entitydescription.huskedmeat>
   <entityname.molochmeat>Мясо молоха</entityname.molochmeat>
   <entitydescription.molochmeat>Хрустящий снаружи, мягкий внутри.</entitydescription.molochmeat>
   <entityname.spinelingmeat>Мясо шипостая</entityname.spinelingmeat>
-  <entitydescription.spinelingmeat>Надеемся никакой шип не застрянет у тебя в горле...</entitydescription.spinelingmeat>
+  <entitydescription.spinelingmeat>Надеемся, никакой шип не застрянет у тебя в горле...</entitydescription.spinelingmeat>
   <entityname.mudraptormeat>Мясо грязевого раптора</entityname.mudraptormeat>
-  <entitydescription.mudraptormeat>Люди говорят это на вкус как курица, плохо, что вы не знаете какого это...</entitydescription.mudraptormeat>
+  <entitydescription.mudraptormeat>Люди говорят, это на вкус как курица, плохо, что вы не знаете как это...</entitydescription.mudraptormeat>
   <entityname.threshermeat>Мясо акульего тигра</entityname.threshermeat>
   <entitydescription.threshermeat>Весь покрыт нервами!</entitydescription.threshermeat>
   <!-- Canned Foods -->
   <entityname.tincan>Консервная банка</entityname.tincan>
   <entitydescription.tincan>Используется для сохранение продуктов в течении многих лет, если даже не больше.</entitydescription.tincan>
   <entityname.cannedfood>Консервы</entityname.cannedfood>
-  <entitydescription.cannedfood>Действительно не лучшее блюдо, но оно наполнит твой желудок. Плюс не испортиться, но не спрашиваете из чего это сделали...</entitydescription.cannedfood>
+  <entitydescription.cannedfood>В действительности не лучшее блюдо, но оно наполнит твой желудок. Плюс не испортиться, только не спрашиваете из чего это сделали...</entitydescription.cannedfood>
   <entityname.cannedcrawlermeat>Консервированное мясо ползуна</entityname.cannedcrawlermeat>
   <entitydescription.cannedcrawlermeat>По крайней мере, соль перекроет вкус.</entitydescription.cannedcrawlermeat>
   <entityname.cannedhammerheadmeat>Консервированное мясо молотоглава</entityname.cannedhammerheadmeat>
   <entitydescription.cannedhammerheadmeat>Прожевать это тяжело, но не так сложно, как вынуть из банки.</entitydescription.cannedhammerheadmeat>
   <entityname.cannedhumanmeat>Консервированное мясо человека</entityname.cannedhumanmeat>
-  <entitydescription.cannedhumanmeat>"Даже после смерти мне служат"</entitydescription.cannedhumanmeat>
+  <entitydescription.cannedhumanmeat>"Мне служат даже после смерти"</entitydescription.cannedhumanmeat>
   <entityname.cannedhuskedmeat>Консервированное мясо хасков</entityname.cannedhuskedmeat>
-  <entitydescription.cannedhuskedmeat>Удивительно сытный и вкусный, но у вас во рту останется странный привкус...</entitydescription.cannedhuskedmeat>
+  <entitydescription.cannedhuskedmeat>Удивительно сытный и вкусный, но у вас во рту остаётся странный привкус...</entitydescription.cannedhuskedmeat>
   <entityname.cannedmolochmeat>Консервированное мясо молоха</entityname.cannedmolochmeat>
   <entitydescription.cannedmolochmeat>Соленое серое вещество для всех!</entitydescription.cannedmolochmeat>
   <entityname.cannedmudraptormeat>Консервированное мясо раптора</entityname.cannedmudraptormeat>
-  <entitydescription.cannedmudraptormeat>Может быть оно на вкус как курица, поэтому что он съел много людей?</entitydescription.cannedmudraptormeat>
+  <entitydescription.cannedmudraptormeat>Может быть оно на вкус как курица, поскольку он съел много людей?</entitydescription.cannedmudraptormeat>
   <entityname.cannedspinelingmeat>Консервированное мясо шипостая</entityname.cannedspinelingmeat>
-  <entitydescription.cannedspinelingmeat>Будьте осторожны во время еды: вы можете наткнуться на одну или двадцать костей.</entitydescription.cannedspinelingmeat>
+  <entitydescription.cannedspinelingmeat>Будьте осторожны во время еды: вы можете наткнуться на одну кость или пару десятков.</entitydescription.cannedspinelingmeat>
   <entityname.cannedthreshermeat>Консервированное мясо акульего тигра</entityname.cannedthreshermeat>
   <entitydescription.cannedthreshermeat>После долгого измельчения в блендере это теперь похоже на суп.</entitydescription.cannedthreshermeat>
   <!--Afflictions-->
