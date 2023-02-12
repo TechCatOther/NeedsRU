@@ -3,6 +3,8 @@
   <!--Items-->
   <entityname.watercanteen>Water Canteen</entityname.watercanteen>
   <entitydescription.watercanteen>A resistant water canteen to hold your precious purified water.</entitydescription.watercanteen>
+  <entityname.watercanteenempty>Water Canteen (Empty)</entityname.watercanteenempty>
+  <entitydescription.watercanteenempty>A resistant water canteen to hold your precious purified water, but this one is empty.</entitydescription.watercanteenempty>
   <entityname.ledouxenergydrink>Energy Drink</entityname.ledouxenergydrink>
   <entitydescription.ledouxenergydrink>A tasty drink to help you fight sleepiness.</entitydescription.ledouxenergydrink>
   <entityname.cookingstation_needs>Cooking Station</entityname.cookingstation_needs>
@@ -26,6 +28,23 @@
   <entitydescription.mudraptormeat>People says that it taste like some sort of chicken, too bad you don't know what a chicken is...</entitydescription.mudraptormeat>
   <entityname.threshermeat>Thresher Meat</entityname.threshermeat>
   <entitydescription.threshermeat>There is nerves everywhere !</entitydescription.threshermeat>
+  <!--Cooked Meat-->
+  <entityname.cookedcrawlermeat>Cooked Crawler Meat</entityname.cookedcrawlermeat>
+  <entitydescription.cookedcrawlermeat>Smell better when cooked, the taste however...</entitydescription.cookedcrawlermeat>
+  <entityname.cookedhammerheadmeat>Cooked Hammerhead Meat</entityname.cookedhammerheadmeat>
+  <entitydescription.cookedhammerheadmeat>Though steak for sure.</entitydescription.cookedhammerheadmeat>
+  <entityname.cookedhumanmeat>Cooked Human Meat</entityname.cookedhumanmeat>
+  <entitydescription.cookedhumanmeat>Cooking it doesn't make it less human.</entitydescription.cookedhumanmeat>
+  <entityname.cookedhuskedmeat>Cooked Husked Meat</entityname.cookedhuskedmeat>
+  <entitydescription.cookedhuskedmeat>At least it stopped moving on it's own.</entitydescription.cookedhuskedmeat>
+  <entityname.cookedmolochmeat>Cooked Moloch Meat</entityname.cookedmolochmeat>
+  <entitydescription.cookedmolochmeat>A suprinsgly sweet texture, yet the taste is not that great.</entitydescription.cookedmolochmeat>
+  <entityname.cookedspinelingmeat>Cooked Spineling Meat</entityname.cookedspinelingmeat>
+  <entitydescription.cookedspinelingmeat>Very tender when you remove all the spikes and cook it.</entitydescription.cookedspinelingmeat>
+  <entityname.cookedmudraptormeat>Cooked Mudraptor Meat</entityname.cookedmudraptormeat>
+  <entitydescription.cookedmudraptormeat>A fine piece of nature that you just cooked perfeclty !</entitydescription.cookedmudraptormeat>
+  <entityname.cookedthreshermeat>Cooked Thresher Meat</entityname.cookedthreshermeat>
+  <entitydescription.cookedthreshermeat>No, cooking it doesn't make it easier to eat, but it better the taste.</entitydescription.cookedthreshermeat>
   <!-- Canned Foods -->
   <entityname.tincan>Tin Can</entityname.tincan>
   <entitydescription.tincan>Used to preserve food and meal for years if not more.</entitydescription.tincan>

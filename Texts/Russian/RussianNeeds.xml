@@ -3,6 +3,8 @@
   <!--Items-->
   <entityname.watercanteen>Фляжка воды</entityname.watercanteen>
   <entitydescription.watercanteen>Крепкая фляга для хранения вашей драгоценной очищенной воды.</entitydescription.watercanteen>
+  <entityname.watercanteenempty>Фляжка воды (Пусто)</entityname.watercanteenempty>
+  <entitydescription.watercanteenempty>Крепкая фляга для хранения вашей драгоценной очищенной воды, но сейчас она пустая.</entitydescription.watercanteenempty>
   <entityname.ledouxenergydrink>Энергетический напиток</entityname.ledouxenergydrink>
   <entitydescription.ledouxenergydrink>Вкусный напиток, который поможет вам бороться с сонливостью.</entitydescription.ledouxenergydrink>
   <entityname.cookingstation_needs>Станция для приготовления пищи</entityname.cookingstation_needs>
@@ -26,6 +28,23 @@
   <entitydescription.mudraptormeat>Люди говорят, это на вкус как курица, плохо, что вы не знаете как это...</entitydescription.mudraptormeat>
   <entityname.threshermeat>Мясо акульего тигра</entityname.threshermeat>
   <entitydescription.threshermeat>Весь покрыт нервами!</entitydescription.threshermeat>
+  <!--Cooked Meat-->
+  <entityname.cookedcrawlermeat>Приготовленное мясо ползуна</entityname.cookedcrawlermeat>
+  <entitydescription.cookedcrawlermeat>Пахнет лучше, когда приготовленное. Вкус, однако...</entitydescription.cookedcrawlermeat>
+  <entityname.cookedhammerheadmeat>Приготовленное мясо молотоглава</entityname.cookedhammerheadmeat>
+  <entitydescription.cookedhammerheadmeat>Как стейк, однако.</entitydescription.cookedhammerheadmeat>
+  <entityname.cookedhumanmeat>Приготовленное мясо человека</entityname.cookedhumanmeat>
+  <entitydescription.cookedhumanmeat>Тем не менее приготовление не сделает это мясо менее человеческим.</entitydescription.cookedhumanmeat>
+  <entityname.cookedhuskedmeat>Приготовленное мясо хасков</entityname.cookedhuskedmeat>
+  <entitydescription.cookedhuskedmeat>По крайней мере, оно перестало шевелиться.</entitydescription.cookedhuskedmeat>
+  <entityname.cookedmolochmeat>Приготовленное мясо молоха</entityname.cookedmolochmeat>
+  <entitydescription.cookedmolochmeat>Выглядит удивительно сладким, но на вкус всё еще не так хорошо.</entitydescription.cookedmolochmeat>
+  <entityname.cookedspinelingmeat>Приготовленное мясо шипостая</entityname.cookedspinelingmeat>
+  <entitydescription.cookedspinelingmeat>После удаление всех костей и готовки стало нежным на вкус.</entitydescription.cookedspinelingmeat>
+  <entityname.cookedmudraptormeat>Приготовленное мясо грязевого раптора</entityname.cookedmudraptormeat>
+  <entitydescription.cookedmudraptormeat>Превосходно приготовленный кусок натурального мяса.</entitydescription.cookedmudraptormeat>
+  <entityname.cookedthreshermeat>Приготовленное мясо акульего тигра</entityname.cookedthreshermeat>
+  <entitydescription.cookedthreshermeat>Нет, после готовки это мясо не легче есть. Но оно стало лучше на вкус.</entitydescription.cookedthreshermeat>
   <!-- Canned Foods -->
   <entityname.tincan>Консервная банка</entityname.tincan>
   <entitydescription.tincan>Используется для сохранение продуктов в течении многих лет, если даже не больше.</entitydescription.tincan>
