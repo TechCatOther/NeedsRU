@@ -47,7 +47,7 @@
   <entitydescription.cookedthreshermeat>Нет, после готовки это мясо не легче есть. Но оно стало лучше на вкус.</entitydescription.cookedthreshermeat>
   <!-- Canned Foods -->
   <entityname.tincan>Консервная банка</entityname.tincan>
-  <entitydescription.tincan>Используется для сохранение продуктов в течении многих лет, если даже не больше.</entitydescription.tincan>
+  <entitydescription.tincan>Используется для сохранение продуктов в течение многих лет, если даже не больше.</entitydescription.tincan>
   <entityname.cannedfood>Консервы</entityname.cannedfood>
   <entitydescription.cannedfood>В действительности не лучшее блюдо, но оно наполнит твой желудок. Плюс не испортиться, только не спрашиваете из чего это сделали...</entitydescription.cannedfood>
   <entityname.cannedcrawlermeat>Консервированное мясо ползуна</entityname.cannedcrawlermeat>
