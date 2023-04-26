@@ -1,5 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <infotexts language="English" nowhitespace="false" translatedname="English">
+  <!--Skills and Jobs-->
+  <jobname.chef_needs>Chef</jobname.chef_needs>
+  <jobdescription.chef_needs>The Chef is an expert cook, able to maintain an entire crew well fed.</jobdescription.chef_needs>
+  <skillname.cooking>Cooking</skillname.cooking>
+  <skillname.gardening>Gardening</skillname.gardening>
+  <!--Talents-->
+  <talentname.gordoomramsay>GorDOOM Ramsay</talentname.gordoomramsay>
+  <talentdescription.gordoomramsay>When above 50% health, gain 50% melee damage. When below 50%, gain 50% damage resistance.</talentdescription.gordoomramsay>
+  <talentname.iamacookbut>I am a cook, but...</talentname.iamacookbut>
+  <talentdescription.iamacookbut>When holding a ranged weapon, gain 25% ranged damage.</talentdescription.iamacookbut>
+  <talentname.gourmet>Gourmet</talentname.gourmet>
+  <talentdescription.gourmet>When you are Well Fed, gain 30% maximum health.</talentdescription.gourmet>
+  <talentname.powerfromwater>Power from water</talentname.powerfromwater>
+  <talentdescription.powerfromwater>When you are Well Hydrated, gain 30% swimming speed and 15% movement speed.</talentdescription.powerfromwater>
+  <talentname.hydroponics>Hydroponics</talentname.hydroponics>
+  <talentdescription.hydroponics>Unlock the ability to craft Hydroponic Tanks at a fabricator.</talentdescription.hydroponics>
+  <talentname.advancedhydroponics>Advanced Hydroponics</talentname.advancedhydroponics>
+  <talentdescription.advancedhydroponics>Unlock the ability to grow alien plants at a Hydroponic Tank.</talentdescription.advancedhydroponics>
   <!--Items-->
   <entityname.watercanteen>Water Canteen</entityname.watercanteen>
   <entitydescription.watercanteen>A resistant water canteen to hold your precious purified water.</entitydescription.watercanteen>
@@ -9,6 +27,86 @@
   <entitydescription.ledouxenergydrink>A tasty drink to help you fight sleepiness.</entitydescription.ledouxenergydrink>
   <entityname.cookingstation_needs>Cooking Station</entityname.cookingstation_needs>
   <entitydescription.cookingstation_needs>An all around kitchen appliance allowing you to cook a grand variety of meals. Light enough to be moved elsewhere.</entitydescription.cookingstation_needs>
+  <entityname.portablestove>Portable Stove</entityname.portablestove>
+  <entitydescription.portablestove>A small eletrical kicthen appliance used in the cooking of simple recipes.</entitydescription.portablestove>
+  <entityname.refrigerator_needs>Refrigerator</entityname.refrigerator_needs>
+  <entitydescription.refrigerator_needs>A place to store you meats and drinks and prevent them from expiring.</entitydescription.refrigerator_needs>
+  <entityname.boombox_needs>BoomBox</entityname.boombox_needs>
+  <entitydescription.boombox_needs>A completly waterproof and wireless music player equipped with strong magnets allowing you to listen to any song anywhere !.</entitydescription.boombox_needs>
+  <entityname.chefcap>Chef Cap</entityname.chefcap>
+  <entitydescription.chefcap>To show everyone who's the Chef !</entitydescription.chefcap>
+  <entityname.chefuniform>Chef Uniform</entityname.chefuniform>
+  <entitydescription.chefuniform>A comfortable and fire resistant uniform used by many cooks on Europa.</entitydescription.chefuniform>
+  <entityname.fryingpan_needs>Frying Pan</entityname.fryingpan_needs>
+  <entitydescription.fryingpan_needs>A strong two-handed version of the classic frying pan used to cook a multitude of dishes.</entitydescription.fryingpan_needs>
+  <entityname.kitchenknife_needs>Kitchen Knife</entityname.kitchenknife_needs>
+  <entitydescription.kitchenknife_needs>The most used tool in a kitchen, quite sharp tho.</entitydescription.kitchenknife_needs>
+  <entityname.meatcleaver_needs>Meat Cleaver</entityname.meatcleaver_needs>
+  <entitydescription.meatcleaver_needs>A strong blade used to chop meat and bones in a few strikes. Use this on a corpse to butcher it !</entitydescription.meatcleaver_needs>
+  <entityname.cookingpot>Cooking Pot</entityname.cookingpot>
+  <entitydescription.cookingpot>Used for many cooking recipes, always have one nearby !</entitydescription.cookingpot>
+  <entityname.handblender>Hand Blender</entityname.handblender>
+  <entitydescription.handblender>A small kitchen tool used to grind, mix and crush many ingredients.</entitydescription.handblender>
+  <entityname.hydroponictank>Hydroponic Tank</entityname.hydroponictank>
+  <entitydescription.hydroponictank>An advanced gardening device used in the groth of multiple vegetables.</entitydescription.hydroponictank>
+  <!--Cooking Ingredients-->
+  <entityname.chocolate>Chocolate</entityname.chocolate>
+  <entitydescription.chocolate>Sweet sweet dark chocolate !</entitydescription.chocolate>
+  <entityname.flour>Flour</entityname.flour>
+  <entitydescription.flour>Used a lot in bakery</entitydescription.flour>
+  <entityname.milk>Milk</entityname.milk>
+  <entitydescription.milk>Not really from a cow, but more from soja.</entitydescription.milk>
+  <entityname.salt>Salt</entityname.salt>
+  <entitydescription.salt>It's salty</entitydescription.salt>
+  <entityname.spice>Spice</entityname.spice>
+  <entitydescription.spice>It's spicy</entitydescription.spice>
+  <entityname.wine>Wine</entityname.wine>
+  <entitydescription.wine>The french do it better !</entitydescription.wine>
+  <!--Seed Products-->
+  <entityname.apple>Apple</entityname.apple>
+  <entitydescription.apple>The fruit that started it all.</entitydescription.apple>
+  <entityname.cacao>Cacao</entityname.cacao>
+  <entitydescription.cacao>Grind it and you will have some sweet chocolate !</entitydescription.cacao>
+  <entityname.carot>Carot</entityname.carot>
+  <entitydescription.carot>Don't be confused : it's orange but it's not an orange</entitydescription.carot>
+  <entityname.coffeebeen>Coffee Been</entityname.coffeebeen>
+  <entitydescription.coffeebeen>Crush it and boil it in a cooking pot and voilà ! Warm Coffee.</entitydescription.coffeebeen>
+  <entityname.grape>Grape</entityname.grape>
+  <entitydescription.grape>A wonderful fruit, sweet and slightly acidic.</entitydescription.grape>
+  <entityname.orange>Orange</entityname.orange>
+  <entitydescription.orange>It's an orange.</entitydescription.orange>
+  <entityname.potato>Potato</entityname.potato>
+  <entitydescription.potato>Genetically engineered to be able to grow on vines and tree, technology is impressive !</entitydescription.potato>
+  <entityname.soja>Soja</entityname.soja>
+  <entitydescription.soja>Milk can be extracted from it.</entitydescription.soja>
+  <entityname.spicefruit>Spice Fruit</entityname.spicefruit>
+  <entitydescription.spicefruit>Do not try to eat it like that !</entitydescription.spicefruit>
+  <entityname.strawberry>Strawberry</entityname.strawberry>
+  <entitydescription.strawberry>A delicious fruit, best served in a dessert.</entitydescription.strawberry>
+  <entityname.tomato>Tomato</entityname.tomato>
+  <entitydescription.tomato>Many people think that's weird to put fruits on a pizza, but tomatoes are fruits !</entitydescription.tomato>
+  <entityname.vanillaflower>Vanilla Flower</entityname.vanillaflower>
+  <entitydescription.vanillaflower>Despite being vanilla this ingredient is clearly from a mod.</entitydescription.vanillaflower>
+  <entityname.weedleaf>Weed Leaf</entityname.weedleaf>
+  <entitydescription.weedleaf>I wonder why you grow this thing up ?</entitydescription.weedleaf>
+  <entityname.wheat>Wheat</entityname.wheat>
+  <entitydescription.wheat>Even in space we have wheat.</entitydescription.wheat>
+  <!--Seeds-->
+  <entityname.appleseed>Apple Seed</entityname.appleseed>
+  <entityname.cacaoseed>Cacao Seed</entityname.cacaoseed>
+  <entityname.carotseed>Carot Seed</entityname.carotseed>
+  <entityname.coffeeseed>Coffee Seed</entityname.coffeeseed>
+  <entityname.grapeseed>Grape Seed</entityname.grapeseed>
+  <entityname.orangeseed>Orange Seed</entityname.orangeseed>
+  <entityname.potatoseed>Potato Seed</entityname.potatoseed>
+  <entitydescription.potatoseed>So realistic !.</entitydescription.potatoseed>
+  <entityname.sojaseed>Soja Seed</entityname.sojaseed>
+  <entityname.spiceseed>Spice Seed</entityname.spiceseed>
+  <entityname.strawberryseed>Strawberry Seed</entityname.strawberryseed>
+  <entityname.tomatoseed>Tomato Seed</entityname.tomatoseed>
+  <entityname.vanillaseed>Vanilla Seed</entityname.vanillaseed>
+  <entityname.weedseed>Weed Seed</entityname.weedseed>
+  <entityname.wheatseed>Wheat Seed</entityname.wheatseed>
   <!--Meat-->
   <entityname.rottedmeat>Rotted Meat</entityname.rottedmeat>
   <entitydescription.rottedmeat>Don't even think about eating that !</entitydescription.rottedmeat>
@@ -42,7 +140,7 @@
   <entityname.cookedspinelingmeat>Cooked Spineling Meat</entityname.cookedspinelingmeat>
   <entitydescription.cookedspinelingmeat>Very tender when you remove all the spikes and cook it.</entitydescription.cookedspinelingmeat>
   <entityname.cookedmudraptormeat>Cooked Mudraptor Meat</entityname.cookedmudraptormeat>
-  <entitydescription.cookedmudraptormeat>A fine piece of nature that you just cooked perfeclty !</entitydescription.cookedmudraptormeat>
+  <entitydescription.cookedmudraptormeat>A fine piece of nature that you just cooked perfectly !</entitydescription.cookedmudraptormeat>
   <entityname.cookedthreshermeat>Cooked Thresher Meat</entityname.cookedthreshermeat>
   <entitydescription.cookedthreshermeat>No, cooking it doesn't make it easier to eat, but it better the taste.</entitydescription.cookedthreshermeat>
   <!-- Canned Foods -->
@@ -79,10 +177,36 @@
   <afflictiondescription.sleepaffliction>Keep your sleepiness low : if it reach 50% you will start to get negative effects and your body may not endure it...</afflictiondescription.sleepaffliction>
   <afflictioncauseofdeath.sleepaffliction>Died of sleep deprivation</afflictioncauseofdeath.sleepaffliction>
   <afflictioncauseofdeathself.sleepaffliction>You can now rest, forever...</afflictioncauseofdeathself.sleepaffliction>
-  <afflictionname.social>Social</afflictionname.social>
-  <afflictiondescription.social>Keep this need in check : if it reach 50% you will start to get negative effects on your skills, so enjoy human company a little !</afflictiondescription.social>
-  <afflictioncauseofdeath.social>Crippling depression</afflictioncauseofdeath.social>
-  <afflictioncauseofdeathself.social>How ????</afflictioncauseofdeathself.social>
+  <afflictionname.mood>Mood</afflictionname.mood>
+  <afflictiondescription.mood>Keep this need in check : if it reach 50% you will start to get negative effects on your skills, so enjoy some good time !</afflictiondescription.mood>
+  <afflictioncauseofdeath.mood>Crippling depression</afflictioncauseofdeath.mood>
+  <afflictioncauseofdeathself.mood>How ????</afflictioncauseofdeathself.mood>
+  <afflictionname.wellfed>Well Fed</afflictionname.wellfed>
+  <afflictiondescription.wellfed>
++10% swimming speed
++10% melee attack speed
++10% melee attack power
+
+Hunger will progress slightly slowly
+</afflictiondescription.wellfed>
+  <afflictionname.wellhydrated>Well Hydrated</afflictionname.wellhydrated>
+  <afflictiondescription.wellhydrated>
++10% swimming speed
++10% melee attack speed
++10% melee attack power
+
+Thirst will progress slightly slowly
+</afflictiondescription.wellhydrated>
+  <afflictionname.wellrested>Well Rested</afflictionname.wellrested>
+  <afflictiondescription.wellrested>
++5% swimming speed
++5% melee attack speed
++5% melee attack power
+
+Sleepiness will progress slightly slowly
+</afflictiondescription.wellrested>
+  <afflictionname.jovial>Jovial</afflictionname.jovial>
+  <afflictiondescription.jovial>+5 in all skills</afflictiondescription.jovial>
   <!--afflictionname.></afflictionname.>
 <afflictiondescription.></afflictiondescription.>
 <afflictioncauseofdeath.></afflictioncauseofdeath.>

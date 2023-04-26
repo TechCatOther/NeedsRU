@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="NEEDS RU" corepackage="false" modversion="1.1" gameversion="0.21.6.0">
+<contentpackage name="NEEDS RU" corepackage="false" modversion="1.2" gameversion="1.0.9.0">
     <Text file="%ModDir%/Texts/Russian/RussianNeeds.xml" />
 </contentpackage>

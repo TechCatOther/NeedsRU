@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+  <!--Skills and Jobs-->
+  <jobname.chef_needs>Шеф-повар</jobname.chef_needs>
+  <jobdescription.chef_needs>Шеф-повар это повар-эксперт, способный прокормить всю команду.</jobdescription.chef_needs>
+  <skillname.cooking>Готовка</skillname.cooking>
+  <skillname.gardening>Садоводство</skillname.gardening>
+  <!--Talents-->
+  <talentname.gordoomramsay>ГорДУМ Рамзи</talentname.gordoomramsay>
+  <talentdescription.gordoomramsay>При здоровье выше 50% урон ближнего боя на 50% выше. При здоровье ниже 50% сопротивление урона на 50% выше.</talentdescription.gordoomramsay>
+  <talentname.iamacookbut>Я повар, но...</talentname.iamacookbut>
+  <talentdescription.iamacookbut>При использовании оружия дальнего боя добавляется 25% урона.</talentdescription.iamacookbut>
+  <talentname.gourmet>Гурман</talentname.gourmet>
+  <talentdescription.gourmet>Когда вы Сыты, максимальное здоровье на 30% выше.</talentdescription.gourmet>
+  <talentname.powerfromwater>Сила воды</talentname.powerfromwater>
+  <talentdescription.powerfromwater>Когда вы Напились, скорость плаванья увеличена на 30% и скорость ходьбы на 15%.</talentdescription.powerfromwater>
+  <talentname.hydroponics>Гидропоника</talentname.hydroponics>
+  <talentdescription.hydroponics>Разблокирует рецепт изготовления гидропонного резервуара в фабрикаторе.</talentdescription.hydroponics>
+  <talentname.advancedhydroponics>Продвинутая гидропоника</talentname.advancedhydroponics>
+  <talentdescription.advancedhydroponics>Разблокирует возможность выращивания инопланетный растений в гидропонном резервуаре.</talentdescription.advancedhydroponics>
   <!--Items-->
   <entityname.watercanteen>Фляжка воды</entityname.watercanteen>
   <entitydescription.watercanteen>Крепкая фляга для хранения вашей драгоценной очищенной воды.</entitydescription.watercanteen>
@@ -9,6 +27,86 @@
   <entitydescription.ledouxenergydrink>Вкусный напиток, который поможет вам бороться с сонливостью.</entitydescription.ledouxenergydrink>
   <entityname.cookingstation_needs>Станция для приготовления пищи</entityname.cookingstation_needs>
   <entitydescription.cookingstation_needs>Универсальная кухня, позволяющая готовить вам огромное разнообразие блюд. Достаточно легкая для переноски куда либо.</entitydescription.cookingstation_needs>
+  <entityname.portablestove>Переносная плита</entityname.portablestove>
+  <entitydescription.portablestove>Небольшой электрический кухонный прибор, используемый для приготовлении блюд по простым рецептам.</entitydescription.portablestove>
+  <entityname.refrigerator_needs>Холодильник</entityname.refrigerator_needs>
+  <entitydescription.refrigerator_needs>Место для хранения мяса и напитков и предотвращения их порчи.</entitydescription.refrigerator_needs>
+  <entityname.boombox_needs>Бумбокс</entityname.boombox_needs>
+  <entitydescription.boombox_needs>Полностью водонепроницаемый беспроводной музыкальный плеер, оснащенный сильными магнитами. Позволяет слушать песни где угодно!</entitydescription.boombox_needs>
+  <entityname.chefcap>Колпак шеф-повара</entityname.chefcap>
+  <entitydescription.chefcap>Покажите всем, кто тут шеф-повар!</entitydescription.chefcap>
+  <entityname.chefuniform>Униформа шеф-повара</entityname.chefuniform>
+  <entitydescription.chefuniform>Удобная и огнестойкая форма, используемая многими поварами на Европе.</entitydescription.chefuniform>
+  <entityname.fryingpan_needs>Сковорода</entityname.fryingpan_needs>
+  <entitydescription.fryingpan_needs>Прочная двуручная версия классической сковороды, используемая для приготовления множества блюд.</entitydescription.fryingpan_needs>
+  <entityname.kitchenknife_needs>Кухонный нож</entityname.kitchenknife_needs>
+  <entitydescription.kitchenknife_needs>Наиболее часто используемый инструмент на кухне, довольно острый.</entitydescription.kitchenknife_needs>
+  <entityname.meatcleaver_needs>Нож для разделки мяса</entityname.meatcleaver_needs>
+  <entitydescription.meatcleaver_needs>Прочное лезвие для измельчения мяса и костей всего за несколько ударов. Используйте на трупе для разделки!</entitydescription.meatcleaver_needs>
+  <entityname.cookingpot>Кастрюля для приготовления пищи</entityname.cookingpot>
+  <entitydescription.cookingpot>Используется во многих кулинарных рецептах. Полезно всегда имейте под рукой!</entitydescription.cookingpot>
+  <entityname.handblender>Ручной блендер</entityname.handblender>
+  <entitydescription.handblender>Небольшой кухонный инструмент, используемый для измельчения, смешивания и дробления множество разных ингредиентов.</entitydescription.handblender>
+  <entityname.hydroponictank>Гидропонный резервуар</entityname.hydroponictank>
+  <entitydescription.hydroponictank>Современное садовое устройство, используемое для выращивания разных овощей.</entitydescription.hydroponictank>
+  <!--Cooking Ingredients-->
+  <entityname.chocolate>Шоколад</entityname.chocolate>
+  <entitydescription.chocolate>Сладкий сладкий тёмный шоколад!</entitydescription.chocolate>
+  <entityname.flour>Мука</entityname.flour>
+  <entitydescription.flour>Часто используется в пекарне</entitydescription.flour>
+  <entityname.milk>Молоко</entityname.milk>
+  <entitydescription.milk>На самом деле не от коровы, а из сои.</entitydescription.milk>
+  <entityname.salt>Соль</entityname.salt>
+  <entitydescription.salt>Солёное</entitydescription.salt>
+  <entityname.spice>Специи</entityname.spice>
+  <entitydescription.spice>Ароматные</entitydescription.spice>
+  <entityname.wine>Вино</entityname.wine>
+  <entitydescription.wine>У французов это получается лучше!</entitydescription.wine>
+  <!--Seed Products-->
+  <entityname.apple>Яблоко</entityname.apple>
+  <entitydescription.apple>Плод, с которого все началось.</entitydescription.apple>
+  <entityname.cacao>Какао</entityname.cacao>
+  <entitydescription.cacao>Измельчите его, и у вас получится немного сладкого шоколада!</entitydescription.cacao>
+  <entityname.carot>Морковь</entityname.carot>
+  <entitydescription.carot>Оранжевая, но не апельсин.</entitydescription.carot>
+  <entityname.coffeebeen>Кофейные зёрна</entityname.coffeebeen>
+  <entitydescription.coffeebeen>Измельчите его и отварите в кастрюле для приготовления пищи voilà ! Горячий кофе.</entitydescription.coffeebeen>
+  <entityname.grape>Виноград</entityname.grape>
+  <entitydescription.grape>Замечательный фрукт, сладкий и слегка кисловатый.</entitydescription.grape>
+  <entityname.orange>Апельсин</entityname.orange>
+  <entitydescription.orange>Оранжевый</entitydescription.orange>
+  <entityname.potato>Картофель</entityname.potato>
+  <entitydescription.potato>Созданный с помощью генной инженерии для выращивания на виноградных лозах и кустарниках. Впечатляет!</entitydescription.potato>
+  <entityname.soja>Соя</entityname.soja>
+  <entitydescription.soja>Из него можно сделать молоко.</entitydescription.soja>
+  <entityname.spicefruit>Пряный фрукт</entityname.spicefruit>
+  <entitydescription.spicefruit>Не пытайтесь есть это таким образом!</entitydescription.spicefruit>
+  <entityname.strawberry>Клубника</entityname.strawberry>
+  <entitydescription.strawberry>Вкусный фрукт, который лучше всего подавать в качестве десерта.</entitydescription.strawberry>
+  <entityname.tomato>Помидор</entityname.tomato>
+  <entitydescription.tomato>Многие люди думают, что странно класть ягоду в пиццу, но помидор - это ягода!</entitydescription.tomato>
+  <entityname.vanillaflower>Цветок ванили</entityname.vanillaflower>
+  <entitydescription.vanillaflower>Несмотря на то, что это ваниль, этот ингридиент из мода.</entitydescription.vanillaflower>
+  <entityname.weedleaf>Листья травки</entityname.weedleaf>
+  <entitydescription.weedleaf>Интересно, зачем ты выращиваешь эту штуку?</entitydescription.weedleaf>
+  <entityname.wheat>Пшеница</entityname.wheat>
+  <entitydescription.wheat>Даже в космое у нас есть пщеница.</entitydescription.wheat>
+  <!--Seeds-->
+  <entityname.appleseed>Семена яболка</entityname.appleseed>
+  <entityname.cacaoseed>Семена какао</entityname.cacaoseed>
+  <entityname.carotseed>Семена моркови</entityname.carotseed>
+  <entityname.coffeeseed>Семена кофе</entityname.coffeeseed>
+  <entityname.grapeseed>Семена винограда</entityname.grapeseed>
+  <entityname.orangeseed>Семена апельсина</entityname.orangeseed>
+  <entityname.potatoseed>Семена картофеля</entityname.potatoseed>
+  <entitydescription.potatoseed>Такие реалистичные!</entitydescription.potatoseed>
+  <entityname.sojaseed>Семена сои</entityname.sojaseed>
+  <entityname.spiceseed>Семена специй</entityname.spiceseed>
+  <entityname.strawberryseed>Семена клубнки</entityname.strawberryseed>
+  <entityname.tomatoseed>Семена помидора</entityname.tomatoseed>
+  <entityname.vanillaseed>Семена ванили</entityname.vanillaseed>
+  <entityname.weedseed>Семена травки</entityname.weedseed>
+  <entityname.wheatseed>Семена пшеницы</entityname.wheatseed>
   <!--Meat-->
   <entityname.rottedmeat>Гнилое мясо</entityname.rottedmeat>
   <entitydescription.rottedmeat>Даже не думай это есть!</entitydescription.rottedmeat>
@@ -79,8 +177,40 @@
   <afflictiondescription.sleepaffliction>Держи свою сонливость на низком уровне : если она достигнет 50%, вы начнете получать негативные последствия, и ваше тело может этого не вынести...</afflictiondescription.sleepaffliction>
   <afflictioncauseofdeath.sleepaffliction>Погибает от недосыпания</afflictioncauseofdeath.sleepaffliction>
   <afflictioncauseofdeathself.sleepaffliction>Теперь вы можете отдохнуть, навсегда...</afflictioncauseofdeathself.sleepaffliction>
-  <afflictionname.social>Общение</afflictionname.social>
-  <afflictiondescription.social>Не забывай о нём : если оно достигнет 50%, вы начнёте получать негативные последствия на ваших навыках. Так что наслаждайтесь компанией людей хоть немного!</afflictiondescription.social>
-  <afflictioncauseofdeath.social>Разрушительная депрессия</afflictioncauseofdeath.social>
-  <afflictioncauseofdeathself.social>КАК????</afflictioncauseofdeathself.social>
+  <afflictionname.mood>Настроение</afflictionname.mood>
+  <afflictiondescription.mood>Не забывай о нём : если оно достигнет 50%, вы начнёте получать негативные последствия на ваших навыках. Так что наслаждайтесь компанией людей хоть немного!</afflictiondescription.mood>
+  <afflictioncauseofdeath.mood>Разрушительная депрессия</afflictioncauseofdeath.mood>
+  <afflictioncauseofdeathself.mood>КАК????</afflictioncauseofdeathself.mood>
+  <afflictionname.wellfed>Сытый</afflictionname.wellfed>
+  <afflictiondescription.wellfed>
++10% скорости плаванья
++10% скорости атаки в ближем бою
++10% силе атаки в ближем бою
+
+Чувство голода будет развиваться немного медленнее
+</afflictiondescription.wellfed>
+  <afflictionname.wellhydrated>Напивщийся</afflictionname.wellhydrated>
+  <afflictiondescription.wellhydrated>
++10% скорости плаванья
++10% скорости атаки в ближем бою
++10% силе атаки в ближем бою
+
+Жажда будет развиваться немного медленнее
+</afflictiondescription.wellhydrated>
+  <afflictionname.wellrested>Отдахнувший</afflictionname.wellrested>
+  <afflictiondescription.wellrested>
++5% скорости плаванья
++5% скорости атаки в ближем бою
++5% силе атаки в ближем бою
+
+Сонливость будет развиваться немного медленнее
+</afflictiondescription.wellrested>
+  <afflictionname.jovial>Веселый</afflictionname.jovial>
+  <afflictiondescription.jovial>+5 ко всем навыкам</afflictiondescription.jovial>
+  <!--afflictionname.></afflictionname.>
+<afflictiondescription.></afflictiondescription.>
+<afflictioncauseofdeath.></afflictioncauseofdeath.>
+<afflictioncauseofdeathself.></afflictioncauseofdeathself.-->
+  <!--entityname.></entityname.>
+<entitydescription.></entitydescription.-->
 </infotexts>
